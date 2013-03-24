@@ -10,6 +10,9 @@ Clearly this is just a stub right now.  Please add more!
 
   * RFID
   * QR Code
+    * Possibly distinguish between persistent codes for monthly members and one-day/one-time use codes for guests etc.
+    * Make it possible to manage authorized codes remotely (IRC?)
+
 
 ## Other projects
 
