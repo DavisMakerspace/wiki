@@ -10,14 +10,32 @@ Feel free to brainstorm ideas here.  Unless otherwise specified, lists here are 
 
 Clearly this is just a stub right now.  Please add more!
 
-## Authentication
+## Authentication Methods
 
-  * RFID
-  * QR Code
-    * Possibly distinguish between persistent codes for monthly members and one-day/one-time use codes for guests etc.
-    * Make it possible to manage authorized codes remotely (IRC?)
+- RFID
+- QR Code
+    - Could be useful for more temporary authorization types
+- Facial recognition
+- Thumbprint
+- Electronic manual override
+- Physical manual override
 
+## Authorization Types
+ 
+- Persistent authorization for e.g. members in good standing
+- One-day/one-time authorization for e.g. guests
 
-## Other projects
+## Management
 
-  * [Lockitron](https://lockitron.com/)
+- Authorize an authentication via multiple interfaces
+    - IRC
+    - Website
+    - Kiosk in space
+
+## Monitoring
+
+- Announce entry/exit on IRC
+
+## Relevant external projects
+
+- [Lockitron](https://lockitron.com/)
