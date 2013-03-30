@@ -1,0 +1,20 @@
+# Davis Flea Market!
+
+## ReconstructMe on the Windows Desktop
+We have a desktop available to do scanning via kinect and ReconstructMe.  You may access everything through the dms user (no password).
+### Usage:
+
+1.  Plug the Kinect in (don't forget the power cord!)
+    a.  When the kinect is initially plugged in Windows may try to pull drivers from MS which I don't think we want it to do.  The best option is to just leave the wireless card unplugged until after it has recognized the device.  If you can't do that then click on the bubble that pops up when it detects the new hardware and tell it to skip trying to find new drivers online.
+2.  Open up "My Computer" and navigate to c:\reconstructme
+3.  Locate the batch files that begin "Start*".  Ignore the files that refer to MSKinect - you want the ones that refer to OpenNI.
+4.  Run the batch file that performs your desired action.  You can find out about your options [here](http://reconstructme.net/projects/reconstructme-console/usage/).  The desktop is fast enough to do a Highres scan in realtime.
+5.  Agree to the license agreement.
+6.  You can press 'p' to start scanning and 'p' again to stop when you are finished (or just want a break...)
+7.  Finish up by pressing 'esc' in the window showing the kinect stream
+8.  Save your data by entering responses to the prompts.  You choose the format for your model by using a file extension.  I've tested .stl and .obj and they both seem to work fine.  Stl is probably the more direct solution.
+9.  Wait.  It will take a bit to build the finished model and write it out to disk.  The window will close on its own.
+10.  If you saved the model in a compatible format, such as stl, you can now view it (and edit/prepare it for printing) in netfabb.  Just double click on it to open it.
+
+## Keyboard Anywhere
+I think I have [keyboard_anywhere](https://github.com/petermoz/keyboard-anywhere) working ok.  I'll bring my laptop by on Saturday afternoon and see if we can't get people playing an invisible keyboard on the ground or the wall.  Let me know if you want to get this set up on your own system... it was something of an ordeal in Arch, but definitely doable.
