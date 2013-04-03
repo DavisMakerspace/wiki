@@ -20,6 +20,7 @@ Clearly this is just a stub right now.  Please add more!
     - Easy to cancel and regenerate in case of loss.
     - Less convenient since requires visibility.
     - Cheaper per key vs RFID.
+    - Could be implemented with a Raspberry PI and a webcam [example project](http://www.raspberrypi.org/archives/2504)
 - Facial recognition
 - Thumbprint
 - Electronic manual override
