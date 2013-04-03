@@ -54,19 +54,13 @@ Clearly this is just a stub right now.  Please add more!
 ## Possible data to store:
 
 - Code
-
 - Date/Time created, used, expires
-
 - Created by/for
-
 - Status (active, expired, revoked)
 
 ## Relevant external projects
 
 - An [Electric Strike](http://en.wikipedia.org/wiki/Electric_strike) would allow us to keep our current key/deadbolt option and mean less work on the door and frame.  Thanks to Tim for the suggestion!
-
 - [Lockitron](https://lockitron.com/)
-
 - [Instructables](http://www.instructables.com/id/Arduino-RFID-Door-Lock/) - RFID project
-
 - Eugene Makerspace has some interesting [ideas](http://www.eugenemakerspace.com/wiki/Sites/ElectronicDoorLock)
