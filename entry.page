@@ -13,17 +13,29 @@ Clearly this is just a stub right now.  Please add more!
 ## Authentication Methods
 
 - RFID
+    - Good for longer-term authorizations, e.g. members in good standing.
+    - Unlike QR, no visibility of key required, just proximity.
 - QR Code
-    - Could be useful for more temporary authorization types
+    - Good for temporary authorizations.
+    - Easy to cancel and regenerate in case of loss.
+    - Less convenient since requires visibility.
+    - Cheaper per key vs RFID.
 - Facial recognition
 - Thumbprint
 - Electronic manual override
 - Physical manual override
+- Login and unlock via local WiFi
+- Knock code
+    - e.g. have to tap a certain rhythm to unlock.  Though any means of 'tapping' could be possible, e.g. flashing a light, making sounds, etc.
+    - probably best for limited time or one-time authentications.
 
 ## Authorization Types
  
 - Persistent authorization for e.g. members in good standing
 - One-day/one-time authorization for e.g. guests
+- Dependent on certain conditions, e.g.
+    - only in given time frame
+    - someone already in the space
 
 ## Management
 
