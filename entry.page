@@ -15,7 +15,7 @@ Clearly this is just a stub right now.  Please add more!
 - RFID
     - Good for longer-term authorizations, e.g. members in good standing.
     - Unlike QR, no visibility of key required, just proximity.
-- QR Code
+- [QR Code Entry]()
     - Good for temporary authorizations.
     - Easy to cancel and regenerate in case of loss.
     - Less convenient since requires visibility.
