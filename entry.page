@@ -51,6 +51,7 @@ Clearly this is just a stub right now.  Please add more!
 ## Monitoring
 
 - Announce entry/exit on IRC
+- Could run a user created script at door open, like on login
 
 ## Possible data to store:
 
