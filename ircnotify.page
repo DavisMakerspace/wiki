@@ -7,3 +7,7 @@ The idea is that it is a general purpose method to send notifications to the IRC
 On the server, an example one-liner to send a notification to the IRC channel:
 
     echo 'Hello world!' | socat stdin unix-connect:/run/ircnotify/dmsnotify
+
+## Source
+
+The source is on github under [DavisMakerspace/ircnotify](https://github.com/DavisMakerspace/ircnotify).
