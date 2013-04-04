@@ -1,12 +1,16 @@
+---
+categories: projects
+...
+
 # ircnotify
 
-ircnotify is a little bot that relays info from a UNIX socket to the IRC channel.
+ircnotify is a little bot that relays amything written into a UNIX socket to the IRC channel, acting as a general method to send notifications to the IRC channel.
 
-The idea is that it is a general purpose method to send notifications to the IRC channel.
-
-On the server, an example one-liner to send a notification to the IRC channel:
+For example:
 
     echo 'Hello world!' | socat stdin unix-connect:/run/ircnotify/dmsnotify
+
+Feel free to play around with it, or to come up with something else entirely.
 
 ## Source
 
