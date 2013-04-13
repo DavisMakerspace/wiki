@@ -1,0 +1,9 @@
+# 3D Printer & Computer
+
+There is a 3D printer (designed+built by Mick) in the space.
+
+There is a Linux computer there meant to be used with it (running CrunchBang linux).
+
+Further notes and instructions to follow.
+
+For now, know that the software `slic3r` and some other one whose name is forgotten at the moment are in the command PATH.
