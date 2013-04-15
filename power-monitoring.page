@@ -7,3 +7,5 @@ categories: projects
 It might be neat to attach some sort of power monitoring unit to the junction where electricity comes into the space so that we can monitor exactly how much usage we are doing and other fun real-time data-gathering tasks.
 
 Where does electricity come into the space?  There appears to be some sort of junction on the right-hand side of the back wall.
+
+* We could use a [Kill-a-watt](http://en.wikipedia.org/wiki/Kill_A_Watt) to do this: [http://myarduino.pbworks.com/w/page/51681614/Hacking%20the%20kill-a-watt](http://myarduino.pbworks.com/w/page/51681614/Hacking%20the%20kill-a-watt)
