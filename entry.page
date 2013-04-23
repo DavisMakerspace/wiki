@@ -29,7 +29,7 @@ Clearly this is just a stub right now.  Please add more!
 - Knock code
     - e.g. have to tap a certain rhythm to unlock.  Though any means of 'tapping' could be possible, e.g. flashing a light, making sounds, etc.
     - probably best for limited time or one-time authentications.
-- USB key
+- [USB key entry]()
     - could be dual-use with dead-drop port
 - Bluetooth pairing
 
