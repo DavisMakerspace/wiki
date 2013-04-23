@@ -1,0 +1,3 @@
+Right now I am just using this as a scratchpad for ideas.  Please expand!
+
+- We may wish to use [udevil](http://ignorantguru.github.io/udevil/) to automount, coupled with [devmon](http://igurublog.wordpress.com/downloads/script-devmon/) (already included with udevil) to launch an authenticator.
