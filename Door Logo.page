@@ -7,13 +7,13 @@ I propose we make a total control Lighting implementation for a sign and possibl
 Mount pixels to some circular cut plywood, with a large dense cluster of pixels. Say a 2-3 foot diameter wood/metal round with 200-300 pixels. 
 These are RGB LED Roll lights with modular controller so you can define each LED light, 3 LED per "pixel" . 60 pixel per meter.
 This project has everything arduino, design of the cluster of strip lights, and software programming of LED pixels.
-All good shit from coolneon.com in Oakland.
+All good shit from [coolneon.com](www.coolneon.com) in Oakland.
 
 # POWER: 
 Id like to make it Power over Ethernet. 
 
 # RESULT: 
-To make DMS logo that can osscillate through a gajillion different colors. That can change periodically and is solar powered. Maybe we can do more lights, physics is involved.
+To make DMS logo that can osscillate through a gajillion different colors. That can change periodically, and maybe we can do more house lights, physics is involved.
 
 
 # PRODUCTS:
@@ -21,10 +21,10 @@ To make DMS logo that can osscillate through a gajillion different colors. That 
  - [Lights](http://shopping.netsuite.com/s.nl/c.ACCT88394/it.A/id.992/.f) $100
 
 
- - Developer Kit $57.50 
+ - [Developer Kit] (http://shopping.netsuite.com/s.nl/c.ACCT88394/it.A/id.1068/.f?sc=2&category=1678) $57.50 
 has enclosure, arduino board and shield to interface to the lights.
 
-http://shopping.netsuite.com/s.nl/c.ACCT88394/it.A/id.1068/.f?sc=2&category=1678
+
 
 
 
