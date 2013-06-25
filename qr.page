@@ -1,0 +1,18 @@
+QR graphics we might want to use:
+
+# http://www.davismakerspace.org
+
+These all point to [http://www.davismakerspace.org](http://www.davismakerspace.org), just with different (increasing) values of redundancy.
+
+![](https://chart.googleapis.com/chart?chs=512x512&cht=qr&chl=http://www.davismakerspace.org/&chld=L|1)
+
+![](https://chart.googleapis.com/chart?chs=512x512&cht=qr&chl=http://www.davismakerspace.org/&chld=M|1)
+
+![](https://chart.googleapis.com/chart?chs=512x512&cht=qr&chl=http://www.davismakerspace.org/&chld=Q|1)
+
+![](https://chart.googleapis.com/chart?chs=512x512&cht=qr&chl=http://www.davismakerspace.org/&chld=H|1)
+
+
+# Make your own...
+
+Using the (deprecated) Google [Infographics API](https://google-developers.appspot.com/chart/infographics/docs/qr_codes).
