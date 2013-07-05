@@ -1,10 +1,20 @@
 ---
+title: Space Entry Project
 categories: projects
 ...
 
-# Electronic Entry to the Space
+# Current Implementation
 
-We need a cool electronic entry system to our space!
+A box is attached to existing deadbolt that acuates it based on a button on the box or a single opto-isolated input bit.
+
+Pressing the box's button will signal the deadbolt to close after 5 seconds.
+
+The box's input bit is active-high and will open the deadbolt.  It is recommended to not apply the high signal for more than 1 second, otherwise the unit will continue to attempt to open the deadbolt.
+
+There is a BeagleBone Black attached to the deadbolt open bit.  It is running Arch Linux ARM and communicates with the door via the /sys interface to the GPIO.  A simple high-level interface is provided via [sentry](https://github.com/DavisMakerspace/sentry).
+
+
+# Brainstorming
 
 Feel free to brainstorm ideas here.  Unless otherwise specified, lists here are meant to be exhaustive, and not necessarily design goals..!
 
