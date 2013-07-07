@@ -13,6 +13,14 @@ The box's input bit is active-high and will open the deadbolt.  It is recommende
 
 There is a BeagleBone Black attached to the deadbolt open bit.  It is running Arch Linux ARM and communicates with the door via the /sys interface to the GPIO.  A simple high-level interface is provided via [sentry](https://github.com/DavisMakerspace/sentry).
 
+## BeagleBone Black Info
+
+Only some of the GPIO on the BBB seem available to the Linux kernel.  Through experimentation, the following seem usable:
+
+      P8: 7-19,26
+      P9: 11-16,21-24,26,27,30,41,42
+
+The board documentation describes how the pins correspond to GPIO numbers.
 
 # Brainstorming
 
