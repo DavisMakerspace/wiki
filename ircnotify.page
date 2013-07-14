@@ -10,6 +10,12 @@ For example:
 
     echo 'Hello world!' | socat stdin unix-connect:/run/ircnotify/dmsnotify
 
+Or, in python:
+
+    s = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)
+    s.connect("/run/ircnotify/dmsnotify")
+    s.send("Hello world!")
+
 Feel free to play around with it, or to come up with something else entirely.
 
 ## Source
