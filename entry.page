@@ -22,6 +22,14 @@ Only some of the GPIO on the BBB seem available to the Linux kernel.  Through ex
 
 The board documentation describes how the pins correspond to GPIO numbers.
 
+## Open Issues
+
+### UPS Power For All?
+
+It would be nice if the UPS could provide power to all the stuff near the door, e.g. router, modem, deadbolt, Beagle.  How and where should that stuff be grouped?
+
+* I suppose it is also an open question of whether they all *should* be grouped there, though I personally find them interestingly related by all being about "entry" to the space, whether physical (deadbolt), virtual (modem + router), or both (Beagle).  -- Braden
+
 # Brainstorming
 
 Feel free to brainstorm ideas here.  Unless otherwise specified, lists here are meant to be exhaustive, and not necessarily design goals..!
