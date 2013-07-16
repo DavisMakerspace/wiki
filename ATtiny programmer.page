@@ -1,0 +1,9 @@
+# ATtiny programmer
+
+We could have a public Arduino set up as a ISP for ATTiny chips.
+
+## Cost
+    - Arduino ~$25
+    - ATtiny ~$2.50 per chip
+
+    Keep in mind that the ATtinys can be reprogrammed multiple times per chip.
