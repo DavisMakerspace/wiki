@@ -11,6 +11,7 @@ Keep in mind that the ATtinys can be reprogrammed multiple times per chip, keepi
 
 ## Chips
 Assuming we would order from sparkfun, there are 3 options:
+
 * ATtiny84
     - Cost: $2.66 each per 10 chips.
     - I/O Pins: 12
