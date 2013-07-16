@@ -31,10 +31,10 @@ Assuming we would order from sparkfun, there are 3 options:
 
 ## References
 
-[external](http://hlt.media.mit.edu/?p=1695)
-[external](https://www.sparkfun.com/products/11232)
-[external](https://www.sparkfun.com/products/9378)
-[external](https://www.sparkfun.com/products/212)
+* [Programming an ATtiny w/ Arduino 1.0](http://hlt.media.mit.edu/?p=1695)
+* [AVR 14 Pin 20MHz 8K 12A/D - ATtiny84 @ sparkfun](https://www.sparkfun.com/products/11232)
+* [AVR 8 Pin 20MHz 8K 4A/D - ATtiny85 @ sparkfun](https://www.sparkfun.com/products/9378)
+* [AVR 20 Pin 20MHz 2K - ATtiny2313 @ sparkfun](https://www.sparkfun.com/products/212)
 
 ## Comments
 Any comments or suggestions?  put them here!
