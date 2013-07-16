@@ -5,7 +5,7 @@ We could have a public Arduino set up as a ISP for ATTiny chips.
 ## Cost
 - Arduino: ~$20 (I (Wesley) have the components to make the rest of the ISP.)
 - ATtiny: ~$2.56-$2.66 per chip (Depending on model of chip)
-- Computer: Free (Use threed computer as a threed/arduino comuter)
+- Computer: Free (Use threed computer as a threed/arduino computer)
 
 Keep in mind that the ATtinys can be reprogrammed multiple times per chip, keeping the cost of experimenting with the chips down.
 
@@ -24,6 +24,13 @@ Assuming we would order from sparkfun, there are 3 options:
     - Cost: $2.59 each per 10 chips.
     - I/O Pins: 15
     - Program space: 2K
+
+## References
+
+[external](http://hlt.media.mit.edu/?p=1695)
+[external](https://www.sparkfun.com/products/11232)
+[external](https://www.sparkfun.com/products/9378)
+[external](https://www.sparkfun.com/products/212)
 
 ## Comments
 Any comments or suggestions?  put them here!
