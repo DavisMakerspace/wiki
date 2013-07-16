@@ -1,3 +1,7 @@
+---
+categories: projects
+...
+
 # ATtiny programmer
 
 We could have a public Arduino set up as a ISP for ATTiny chips.
