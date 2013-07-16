@@ -11,18 +11,18 @@ Keep in mind that the ATtinys can be reprogrammed multiple times per chip, keepi
 
 ## Chips
 Assuming we would order from sparkfun, there are 3 options:
-1.  ATtiny84
-    a. Cost: $2.66 each per 10 chips.
-    b. I/O Pins: 12
-    c. Program space: 8K
-2.  ATtiny85
-    a. Cost: $2.56 each per 10 chips.
-    b. I/O Pins: 6
-    c. Program space: 8K
-3.  ATtiny2313
-    a. Cost: $2.59 each per 10 chips.
-    b. I/O Pins: 15
-    c. Program space: 2K
+1.  ATtiny84  
+    a. Cost: $2.66 each per 10 chips.  
+    b. I/O Pins: 12  
+    c. Program space: 8K  
+2.  ATtiny85  
+    a. Cost: $2.56 each per 10 chips.  
+    b. I/O Pins: 6  
+    c. Program space: 8K  
+3.  ATtiny2313  
+    a. Cost: $2.59 each per 10 chips.  
+    b. I/O Pins: 15  
+    c. Program space: 2K  
 
 ## Comments
 Any comments or suggestions?  put them here!
