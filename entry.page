@@ -5,13 +5,20 @@ categories: projects
 
 # Current Implementation
 
-A box is attached to existing deadbolt that acuates it based on a button on the box or a single opto-isolated input bit.
+A box (the Automatic Deadbolt Mechanism or "ADM") is attached to the existing deadbolt;
+the ADM can lock or unlock the deadbolt.
 
-Pressing the box's button will signal the deadbolt to close after 5 seconds.
+Pressing a button on the ADM will lock the deadbolt after 5 seconds.
 
-The box's input bit is active-high and will open the deadbolt.  It is recommended to not apply the high signal for more than 1 second, otherwise the unit will continue to attempt to open the deadbolt.
+An opto-isolated input to the ADM will unlock the deadbolt. The input is a single bit; drive it high for 1 second to unlock the deadbolt. Driving it high for more than 1 second is not recommended (it will make the ADM unlock the deadbolt again and again).
 
-There is a BeagleBone Black attached to the deadbolt open bit.  It is running Arch Linux ARM and communicates with the door via the /sys interface to the GPIO.  A simple high-level interface is provided via [sentry](https://github.com/DavisMakerspace/sentry).
+Another opto-isolated one-bit input will lock the deadbolt immediately; drive it high for 1 second to lock the deadbolt.
+
+The ADM supplies two opto-isolated output bits that report the position of the deadbolt, based on two limit switches ("locked" and "unlocked"). A high signal means the deadbolt is at a physical limit; a low signal means the deadbolt is not at a physical limit. The deadbolt might be between the two limits: both bits will be low. If both bits are high, something is broken, since the deadbolt cannot be at both the locked and unlocked positions at the same time.
+
+A door switch supplies another output bit that tells whether the door is open or closed; a low signal means the door is closed.
+
+There is an Access Control Computer ("ACC" -- a BeagleBone Black) connected to the deadbolt control and status bits and the door switch bit. It is running Arch Linux ARM and communicates with the ADM via the /sys interface to the GPIO. A simple high-level interface is provided via [sentry](https://github.com/DavisMakerspace/sentry).
 
 ## BeagleBone Black Info
 
@@ -22,13 +29,15 @@ Only some of the GPIO on the BBB seem available to the Linux kernel.  Through ex
 
 The board documentation describes how the pins correspond to GPIO numbers.
 
+## UPS
+
+A UPS powers the ADM, the ACC, a USB hub attached to the ACC, the DSL modem, and the router. The system can keep running if AC power has failed; it could send a message to notify us of a power failure.
+
+A USB cable connects the UPS to the ACC so that the ACC knows if the power has failed.
+
 ## Open Issues
 
-### UPS Power For All?
-
-It would be nice if the UPS could provide power to all the stuff near the door, e.g. router, modem, deadbolt, Beagle.  How and where should that stuff be grouped?
-
-* I suppose it is also an open question of whether they all *should* be grouped there, though I personally find them interestingly related by all being about "entry" to the space, whether physical (deadbolt), virtual (modem + router), or both (Beagle).  -- Braden
+### (none)
 
 # Brainstorming
 
