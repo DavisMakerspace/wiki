@@ -13,7 +13,7 @@ Using the printrbots can be anywhere from easy to hard, depending on the complex
 ##A general outline for using the printrbots
 
 * Download printrun(used for controlling the 3D printer)
-    1. Connect your computer to the printer via a usb to micro-usb chord. 
+    1. Connect your computer to the printer via a usb to micro-usb cord. 
     2. Use printrun to test the printer: move the filament head, head the filament head, and extrude filament
 
 * Download slic3r(used for creating gcode from .stl files)
