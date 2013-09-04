@@ -11,10 +11,30 @@ Using the printrbots can be anywhere from easy to hard, depending on the complex
 
 ##A general outline of the above instructions goes as follows:
 
-1.Download printrun(used for controlling the 3D printer)
+* Download printrun(used for controlling the 3D printer)
     1. Connect your computer to the printer via a usb to micro-usb chord. 
     2. Use printrun to test the printer: move the filament head, head the filament head, and extrude filament
 
-2.Download slic3r(used for creating gcode from .stl files)
+* Download slic3r(used for creating gcode from .stl files)
     1. Slice a simple model obtained from thingiverse
     2. Load the gcode into printrun and print
+
+If you've gotten this far, you probably want to print something complicated, **that brings us to**
+
+
+## Common problems
+###PrintrBot LC:
+* Filament head remains close to the bed while printing, creating a thin extrusion that's always spread on the bed.
+    a. Stop using Repetier and use a combination of slicer and printrun instead. Repetier is great for rendering the positioning of the stl and slicing the .stl, but it has consistently malfunctioned during the printing process(at least the .56 version for Mac did). Printrun is widely used and works consistently.
+* Extruded filament doesn't stick to the bed
+    a. Raise the temperature of the bed anywhere up to 110˚C (make sure you configure slicer to maintain a bed temperature)
+    b. Clean any dust off the surface of the bed.
+    c. Configure slic3r to print a thinner first layer. 
+    d. Configure slic3r to print rafting/support materials. This will create a bed of filament that the rest of the model will be printed on. 
+    e. Change the orientation of your model so that the base is relatively small, the extrusion head struggles to make sharp corners- supposedly because the bed isn't level across the entire bed surface. 
+    f. Calibrate the level of the bed so that the distance from the extruder to the bed is the same at every corner. 
+    g. Level the bed by replacing the coating, or the bed entirely. 
+    
+
+
+
