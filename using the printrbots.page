@@ -1,4 +1,4 @@
-#Calibrating, spooling, slicing... and yes- **using the printrbots**
+#Using the Printrbots
 
 
 Using the printrbots can be anywhere from easy to hard, depending on the complexity of your model. 
@@ -9,7 +9,7 @@ Using the printrbots can be anywhere from easy to hard, depending on the complex
 * Printrbot Simple [User instructions](http://printrbot.com/support/instructions-and-guides/)
 
 
-##A general outline of the above instructions goes as follows:
+##A general outline for using the printrbots
 
 * Download printrun(used for controlling the 3D printer)
     1. Connect your computer to the printer via a usb to micro-usb chord. 
