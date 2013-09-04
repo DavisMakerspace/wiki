@@ -5,8 +5,8 @@ Using the printrbots can be anywhere from easy to hard, depending on the complex
 
 
   The company that donated the 3D printers, Printrbot- has numerous publications on how to build the printers, configure settings, and even print your first model. 
--Printrbot LC [User instructions](http://printrbot.com/wp-content/uploads/2013/06/Getting-Started-Guide.pdf)
--Printrbot Simple [User instructions](http://printrbot.com/support/instructions-and-guides/)
+* Printrbot LC [User instructions](http://printrbot.com/wp-content/uploads/2013/06/Getting-Started-Guide.pdf)
+* Printrbot Simple [User instructions](http://printrbot.com/support/instructions-and-guides/)
 
 
 ##A general outline of the above instructions goes as follows:
@@ -22,8 +22,8 @@ Using the printrbots can be anywhere from easy to hard, depending on the complex
 If you've gotten this far, you probably want to print something complicated, **that brings us to**
 
 
-## Common problems
-###PrintrBot LC:
+# Common problems
+##PrintrBot LC:
 * Filament head remains close to the bed while printing, creating a thin extrusion that's always spread on the bed.
     a. Stop using Repetier and use a combination of slicer and printrun instead. Repetier is great for rendering the positioning of the stl and slicing the .stl, but it has consistently malfunctioned during the printing process(at least the .56 version for Mac did). Printrun is widely used and works consistently.
 * Extruded filament doesn't stick to the bed
@@ -35,6 +35,3 @@ If you've gotten this far, you probably want to print something complicated, **t
     f. Calibrate the level of the bed so that the distance from the extruder to the bed is the same at every corner. 
     g. Level the bed by replacing the coating, or the bed entirely. 
     
-
-
-
