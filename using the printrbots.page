@@ -1,0 +1,20 @@
+#Calibrating, spooling, slicing... and yes- **using the printrbots**
+
+
+Using the printrbots can be anywhere from easy to hard, depending on the complexity of your model. 
+
+
+  The company that donated the 3D printers, Printrbot- has numerous publications on how to build the printers, configure settings, and even print your first model. 
+-Printrbot LC [User instructions](http://printrbot.com/wp-content/uploads/2013/06/Getting-Started-Guide.pdf)
+-Printrbot Simple [User instructions](http://printrbot.com/support/instructions-and-guides/)
+
+
+##A general outline of the above instructions goes as follows:
+
+-Download printrun(used for controlling the 3D printer)
+--Connect your computer to the printer via a usb to micro-usb chord. 
+--use printrun to test the printer: move the filament head, head the filament head, and extrude filament
+
+-Download slic3r(used for creating gcode from .stl files)
+--slice a simple model obtained from thingiverse
+--load the gcode into printrun and print
