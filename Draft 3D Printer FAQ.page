@@ -1,0 +1,71 @@
+##3D Printer FAQ - taken from Mick's class notes##  
+
+What applications should I install so that I can design and print 3D parts?  
+*[Sketchup](http://www.sketchup.com/)  
+[STL plugin for Sketchup](http://extensions.sketchup.com/en/content/sketchup-stl)  
+[Netfab basic](http://www.netfabb.com/basic.php)  
+[Slic3r](http://slic3r.org/download)  
+[Pronterface](https://github.com/kliment/Printrun)*  
+  
+What unit of measure should I use with my design?  
+*CM (centimeter)*  
+  
+What are the bed sizes of our printers?  
+*The small plywood printer bed is 100mm x 100mm, the large plywood printer is 200mm x 200mm.*  
+  
+How do I create an array of identical parts?  
+*Use Slic3r.*  
+  
+What is Infill?  
+*The solid or honeycomb structure of the solid portions of a part.*  
+  
+What is a Support?  
+*A temporary scaffold inside a part to support a solid portion above it.*  
+  
+What is a Skirt?  
+*A flat area printed around the perimeter of the part.  It serves to reduce warping and to anchor the part.*  
+  
+What is a Brim?  
+*An area printed under the part.  It also reduces warping, but must be cut away after the part is made.*  
+  
+Can I use the default Printerbot speeds on our plywood printers?  
+*No, they are too fast.*  
+  
+How do I set up Printerbot?  
+*Refer to the Printerbot Getting Started Guide and Braden?s Awesome Settings for Simple Printerbot.*  
+  
+What sizes of filament can I use?  
+*Filament comes 1.75mm or 3.0 mm diameter, usually on a 1kg reel.*  
+  
+What type of filament materials are available?  
+*PLA, ABS and Nylon.*  
+  
+Where can I buy known high-quality filament?  
+*Filament from Printerbot is high quality at a good price.*  
+  
+What temperature should I run the extruder at for the different filaments?  
+*PLA - 185 to 190 deg C.*  
+*ABS - 200 to 220 deg C.*  
+*Nylon - 240 deg C.*  
+  
+What are the characteristics of PLA?  
+*PLA does not shrink, is made from corn, it smells pleasant when printing and it needs a fan.*  
+  
+What are the characteristics of ABS?  
+*ABS makes stronger parts, but it shrinks, needs a heated bed and it?s smell is somewhat unpleasant.*  
+  
+What size nozzles are used?  
+*Our machines use 0.4mm nozzles.*  
+  
+What is a good way to get a part to stick to a glass bed?  
+*Apply some Elmer?s orange glue stick to the bed before printing the part.*  
+  
+What is an alternative to Pronterface?  
+*Repetier. But it doesn't work on older printers.*  
+  
+How can I fix internal planes in my part?  
+*With Netfab.  It also has Slic3r built in, but it doesn?t work with some older printers.*  
+  
+Where can I see a demo of Mick's hot foam cutter software?  
+*On his [Makertoolkit](http://makertoolkit.com:3000/#home) site.*  
+
