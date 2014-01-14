@@ -32,7 +32,7 @@ Can I use the default Printerbot speeds on our plywood printers?
 *No, they are too fast.*  
   
 How do I set up Printerbot?  
-*Refer to the Printerbot Getting Started Guide and Braden's Awesome Settings for Simple Printerbot.*  
+*Refer to the [Printerbot Getting Started Guide](http://printrbot.com/wp-content/uploads/2013/08/Getting-Started-Guide-Simple-New.pdf) and Braden's Awesome Settings for Simple Printerbot.*  
   
 What sizes of filament can I use?  
 *Filament comes 1.75mm or 3.0 mm diameter, usually on a 1kg reel.*  
@@ -64,7 +64,7 @@ What is an alternative to Pronterface?
 *Repetier. But it doesn't work on older printers.*  
   
 How can I fix internal planes in my part?  
-*With Netfab.  It also has Slic3r built in, but it doesn?t work with some older printers.*  
+*With Netfab.  It also has Slic3r built in, but it doesn't work with some older printers.*  
   
 Where can I see a demo of Mick's hot foam cutter software?  
 *On his [Makertoolkit](http://makertoolkit.com:3000/#home) site.*  
