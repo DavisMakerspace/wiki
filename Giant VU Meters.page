@@ -5,18 +5,17 @@ categories: projects
 
 # The Basic Concept
 
-Make a pair of giant digital VU meters, mounted on the east wall of our space
+Our original concept statement was:
+
+"Make a pair of giant digital VU meters, mounted on the east wall of our space
 on either side of our projection screen.
 The meters will usually be plugged into the stereo system so that they will show the relative loudness of whatever the stereo is playing.
 
 This project is an installation project: It will produce a decorative / functional object permanently installed in our space. The project will show off some of the multiple talents
 and skills of our members. It will be easily appreciated by visitors, and should add to
-the coolness of our space!
+the coolness of our space!"
 
-A project team has been formed. Results will be publicly visible -- both in our space and on our wiki.
-
-The project received the green light at our monthly meeting on July 1, 2013.
-Work has started already.
+That must have been a reasonable concept, because the finished project followed it closely and works well!
 
 # More Details
 
@@ -24,24 +23,34 @@ Work has started already.
 that show how strong / loud the audio signal is. The "VU" stands for "Volume Units".
 There are two basic kinds of VU meter: An "analog" meter, which looks like a dial with a moving needle; and a "digital" meter, which usually looks like a little stack of colored indicator lights about one inch tall -- the more lights are on, the louder the sound. There are usually two VU meters -- one for each channel of your stereo.
 
-Our VU meters will be digital, but they won't be inch-tall stacks of little lights...
-each one will be about six feet tall and one foot wide.
+Our VU meters are digital, but they are not dinky little one-inch-tall stacks of tiny lights...
+each one is about six feet tall and one foot wide.
 
-Each will have ten big, bright L.E.D. lights.
-The diffusers on the lights will be custom designs, fabricated using our own 3D printers.
-They may include the Davis Makerspace logo that Emily designed -- a feature that
-you can't buy anywhere!
+Each VU meter has ten big, bright L.E.D. lights.
+The diffusers on the lights are custom designs, fabricated using our own vacuum thermoforming system.
 
-# Time, Effort & Work Site
+# Time, Effort, and Expense
 
-This is not a particularly complex project, although it does bring together aesthetics, design, and electronics.
+We formed a team and the project received the green light at our monthly meeting on July 1, 2013.
+The members were Tim F, Emily, and Mick. We expected to have the project finished that summer and work started quickly, but it took longer than that: we installed the meters in the winter of 2013.
 
-There are three members on the project team: Tim F, Emily, and Mick. We expect to have the project finished this summer.
+This was not a particularly complex project, although it did bring together aesthetics, design, plastics, woodwork, and electronics.
 
-Primarily, Emily will design the custom diffusers, Mick will handle the 3D printing,
-and Tim will build the electronics and the wooden support structure. Tim will document the project and will eventually post plans and instructions on our wiki.
+Tim already had some idea of how to create the electronics, since he does that kind of thing for a living. The main project "unknown" was the design of the custom light diffusers. We had originally thought that we would design and 3D-print thin plastic diffusers, perhaps featuring our Davis Makerspace logo. Mick did some very useful 3D-printed experimental diffusers, and Emily and Tim met a few times to brainstorm design ideas. During that early part of the design process, it became pretty obvious that 3D-printed diffusers would either have to be small or made from multiple pieces. Furthermore, it would take a long time and a lot of material to print twenty of them, and their surfaces would be rough.
 
-The work will be done in our space, to the greatest extent possible.
+Tim and Mick discussed alternative ways to crank out twenty diffusers. Whatever technique we would use would have to be fairly cheap, since the electronics and other pieces of the system would use up almost all of our fairly small $150 budget.
+
+The team agreed on the idea of making them using a vacuum thermo-forming system -- more about that system later -- and Tim and Emily designed a simple diffuser. All of the diffusers would have the same shape: a rounded lozenge with a central depression. The depressions would let folks put small lightweight pieces of interesting artwork into the diffusers -- photographic slides, maybe, or 3D-printed figurines or letters that spelled out messages -- thereby making the project more interactive.
+
+Since we didn't have a vacuum thermo-forming machine, nor access to one, we had to build one from scratch. That took a few months, which is probably the main reason why the project took longer to create than we had hoped. But since this project was a volunteer project for our own space, we didn't stress out. After all, the idea was to create something cool, not to create ulcers!
+
+Tim made a master pattern for the diffuser and successfully tested it in the new vacuum thermo-forming system. We had a session in the space to show folks how the vacuum thermo-forming system worked, and then Tim made twenty diffusers plus one spare.
+
+By wintertime Tim had finished assembling and testing both of the Giant VU Meters, and he installed them in the space and sent out email about it.
+
+After a little bit of feedback from members, Tim changed the way that the meters are connected to the stereo. They had been connected directly to the speakers, so that the louder the music, the more lights would turn on. It was sort of a "disco" look... loud music equaled bright lights. But some folks suggested that it would be nicer to have the meters act like the "recording level" meters on a good stereo: a strong musical signal would make more lights turn on, even if you had the volume knob turned down low. That way, you wouldn't have to turn up the music very loud just to show off the pretty lights. And that's the way the meters ended up.
+
+[TO BE CONTINUED... The rest of this page is older material that I am editing. Be patient, please. Thanks, Tim F.]
 
 # Liability
 
