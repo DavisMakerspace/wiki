@@ -3,6 +3,10 @@ title: Giant VU Meters Project
 categories: projects
 ...
 
+# Need Instructions on How to Use the Giant VU Meters?
+
+Go to the Instructions section near the end of this page!
+
 # The Basic Concept
 
 Our original concept statement was:
@@ -17,11 +21,11 @@ the coolness of our space!"
 
 That must have been a reasonable concept, because the finished project followed it closely and works well!
 
-# More Details
+# A Little Background Info
 
 "VU meters" are those little gizmos on your stereo (or other audio electronics)
 that show how strong / loud the audio signal is. The "VU" stands for "Volume Units".
-There are two basic kinds of VU meter: An "analog" meter, which looks like a dial with a moving needle; and a "digital" meter, which usually looks like a little stack of colored indicator lights about one inch tall -- the more lights are on, the louder the sound. There are usually two VU meters -- one for each channel of your stereo.
+There are two basic kinds of VU meter: An "analog" meter, which looks like a dial with a moving needle; and a "digital" meter, which usually looks like a little stack of colored indicator lights about one inch tall -- the more lights are on, the stronger the sound. There are usually two VU meters -- one for each channel of your stereo.
 
 Our VU meters are digital, but they are not dinky little one-inch-tall stacks of tiny lights...
 each one is about six feet tall and one foot wide.
@@ -29,75 +33,108 @@ each one is about six feet tall and one foot wide.
 Each VU meter has ten big, bright L.E.D. lights.
 The diffusers on the lights are custom designs, fabricated using our own vacuum thermoforming system.
 
-# Time, Effort, and Expense
+# Time and Effort
 
 We formed a team and the project received the green light at our monthly meeting on July 1, 2013.
 The members were Tim F, Emily, and Mick. We expected to have the project finished that summer and work started quickly, but it took longer than that: we installed the meters in the winter of 2013.
 
 This was not a particularly complex project, although it did bring together aesthetics, design, plastics, woodwork, and electronics.
 
-Tim already had some idea of how to create the electronics, since he does that kind of thing for a living. The main project "unknown" was the design of the custom light diffusers. We had originally thought that we would design and 3D-print thin plastic diffusers, perhaps featuring our Davis Makerspace logo. Mick did some very useful 3D-printed experimental diffusers, and Emily and Tim met a few times to brainstorm design ideas. During that early part of the design process, it became pretty obvious that 3D-printed diffusers would either have to be small or made from multiple pieces. Furthermore, it would take a long time and a lot of material to print twenty of them, and their surfaces would be rough.
+Tim already had some idea of how to create the electronics, since he does that kind of thing for a living. The main project "unknown" was the design of the custom light diffusers. We had originally thought that we would design and 3D-print thin plastic diffusers, perhaps featuring our Davis Makerspace logo. Mick created some very useful 3D-printed experimental diffusers, and Emily and Tim met a few times to brainstorm design ideas. During that early part of the design process, it became pretty obvious that 3D-printed diffusers would either have to be small or made from multiple pieces. Furthermore, it would take a long time and a lot of material to print twenty of them, and their surfaces would be rough.
 
 Tim and Mick discussed alternative ways to crank out twenty diffusers. Whatever technique we would use would have to be fairly cheap, since the electronics and other pieces of the system would use up almost all of our fairly small $150 budget.
 
-The team agreed on the idea of making them using a vacuum thermo-forming system -- more about that system later -- and Tim and Emily designed a simple diffuser. All of the diffusers would have the same shape: a rounded lozenge with a central depression. The depressions would let folks put small lightweight pieces of interesting artwork into the diffusers -- photographic slides, maybe, or 3D-printed figurines or letters that spelled out messages -- thereby making the project more interactive.
+The team agreed on the idea of making the diffusers using a vacuum thermoforming system (more about that system later), and Tim and Emily designed a simple diffuser. All of the diffusers would have the same shape: a rounded lozenge with a central depression. The depressions would let folks put small lightweight pieces of interesting artwork into the diffusers -- photographic slides, maybe, or 3D-printed figurines or letters that spelled out messages -- thereby making the project more interactive.
 
-Since we didn't have a vacuum thermo-forming machine, nor access to one, we had to build one from scratch. That took a few months, which is probably the main reason why the project took longer to create than we had hoped. But since this project was a volunteer project for our own space, we didn't stress out. After all, the idea was to create something cool, not to create ulcers!
+Since we didn't have a vacuum thermoforming machine, nor access to one, we had to build one from scratch. That took a few months, which is probably the main reason why the project took longer to create than we had hoped. But since this project was a volunteer project for our own space, we didn't stress out. After all, the idea was to create something cool, not to create ulcers!
 
-Tim made a master pattern for the diffuser and successfully tested it in the new vacuum thermo-forming system. We had a session in the space to show folks how the vacuum thermo-forming system worked, and then Tim made twenty diffusers plus one spare.
+Tim made a master pattern for the diffuser and successfully tested it in the new vacuum thermoforming system. We had a session in the space to show folks how the vacuum thermoforming system worked, and then Tim made twenty diffusers plus one spare.
 
 By wintertime Tim had finished assembling and testing both of the Giant VU Meters, and he installed them in the space and sent out email about it.
 
 After a little bit of feedback from members, Tim changed the way that the meters are connected to the stereo. They had been connected directly to the speakers, so that the louder the music, the more lights would turn on. It was sort of a "disco" look... loud music equaled bright lights. But some folks suggested that it would be nicer to have the meters act like the "recording level" meters on a good stereo: a strong musical signal would make more lights turn on, even if you had the volume knob turned down low. That way, you wouldn't have to turn up the music very loud just to show off the pretty lights. And that's the way the meters ended up.
 
-[TO BE CONTINUED... The rest of this page is older material that I am editing. Be patient, please. Thanks, Tim F.]
+# Expenses
+
+The project had a budget limit of $150.00, and we used it all. Most of that went to electronics, and the rest went to the wood, screws, and other "hardware".
+
+The orginal budget wasn't really quite enough for the entire project, but team members made some contributions that made up the difference of about $30.00. That paid for the plastic sheet used to make the diffusers.
+
+Tim contributed the material used to make the vacuum thermoforming system and the pattern and mold for the diffusers. Davis Makerspace member Nicholas contributed the chain that holds up the meters.
+
+Some of the material came from the scrap bins in the makerspace: miscellaneous wires, cables, and small wooden pieces, and also an old power supply.
 
 # Liability
 
-Very low. The VU meters use very little power; they will be powered by small UL-listed wall warts or laptop power supplies, which are fairly safe little gadgets. The L.E.D. lights don't run hot.
+Very low. The VU meters use very little power; they are powered by one very small UL-listed "wall-wart" power supply, which is a fairly common and safe little gadget. The L.E.D. lights don't run hot, so there is no danger of overheating.
 
-# Expenses
+# What's Next? -- More Colors!
 
-The project will come close to the limit of $150.00 that the Board has specified for such installation projects.
+The project is pretty much finished. Feedback has been positive, and there are no issues to work out.
 
-We will save some money by making the light diffusers with our own 3D printers.
+There is one possible enhancement that we'd like to implement: right now, the lights are always red. But Tim designed the system so that we could add some green lights and some blue lights, and connect the meters to some other equipment such as a small computer (perhaps an "Arduino", "Raspberry Pi", or "Beagle Bone"). That computer would mix the red, green, and blue light in varying proportions so that the meters would change color.
 
-# Resources
+So at any particular instant, all the lights in one meter could be pale green (for example), while the lights in the other meter could be bright yellow. Or whatever shade and brightness desired, including white light.
 
-Tim has posted some concept sketches for this project:
+The control computer could be tied into the entry system, for example, so that when somebody unlocked the door the entry system would turn on the stereo and set the lights of the meters to that person's favorite color. Mood lighting!
 
-[Diffuser mounting tabs concept sketch](/Diffuser concept -- mounting tabs.pdf)
+It wouldn't take too much time for Tim to add the new colored lights -- but it would take some funds to buy the LEDs. (Hint, hint!)
 
-[Diffuser shapes concept sketch](/Diffuser concept -- shapes.pdf)
+# Instructions
 
-[Big square diffusers concept sketch](/Diffuser concept -- big squares.pdf)
+Right now the meters are connected to a stereo receiver and speakers that Nicholas donated to the space (thanks, Nick!). The stereo is on top of a filing cabinet in the northeast corner of the space.
 
-[Big circular diffusers concept sketch](/Diffuser concept -- big circles.pdf)
+To use the stereo and the meters:
 
-[Big rectangular diffusers concept sketch](/Diffuser concept -- big rectangles.pdf)
+1) Turn down the VOLUME knob on the stereo before you turn on the stereo, so that you don't blow out Nick's speakers!
 
-[Big elliptical diffusers concept sketch](/Diffuser concept -- big ellipses.pdf)
+2) Decide what you're going to listen to. For example, if you want to use the stereo's built-in radio, turn the FUNCTION knob to the FM position. Or, if you want to listen to music from your laptop, turn the FUNCTION knob to VIDEO/CD and plug the black 1/8" mini-stereo cable into your laptop (or MP3 player, CD player, video projector, etc.). 
 
-[Sine waves diffuser concept sketch](/Diffuser concept -- sine waves.pdf)
+3) Turn on the white power strip on the floor near the stereo. That will turn on the stereo and the meters together. The meters should light up momentarily.
 
-[Sound waves (thin) concept sketch](/Diffuser concept -- sound waves 001.pdf)
+4) Turn the VOLUME knob up slowly. Remember that the meters are set up to show how strong the signal is... NOT how loud you've got the stereo turned up!
 
-[Sound waves (medium) concept sketch](/Diffuser concept -- sound waves 002.pdf)
+5) If you are using a gadget such as a laptop to supply the sound, and only a few lights turn on, check that the volume of your gadget is turned up high enough. Or, if too many lights turn on, check to see if your gadget's volume is turned up too high!
 
-# Next Steps
+# Connections
 
-Progress should be fairly rapid.
+(This part is for techno-types! Feel free to contact Tim if you have more questions.)
 
-Tim has bought all of the electronic and material parts.
+The meters are connected to the receiver's TAPE MONITOR REC outputs.
 
-Tim has also laid out the basic dimensions of the meters (see the concept sketches in the Resources section of this page):
+The two meters are independent circuits. They share a common line, tied to the chassis of the stereo receiver, and they share the DC power line.
 
-- Each meter will be 72" tall, 11.25" wide, and 0.75" thick
-- Each meter will have ten light diffusers
+The power supply is a well-regulated 16 Volt DC switcher, putting out a few hundred mA.
 
-Emily and Mick can work on the diffusers at the same time as Tim builds the electronics and woodwork.
+The PWM input to control the brightness of the lights is opto-isolated. It can be driven by an external digital signal  with a "low" level at 0 Volts and a "high" level anywhere from 3 Volts to 12 Volts. If nothing is connected to the PWM signal, the lights default to full brightness.
 
-Tim and Emily have had some discussions of artistic concepts for the diffusers, and Tim and Mick have had a preliminary discussion about 3D-printing the diffusers.
+# Appendix: The Vacuum Thermoforming System
 
-With any luck, this project will be complete this summer. Stay tuned for progress reports!
+This was an unexpected side-benefit of building the Giant VU Meters. It's a versatile system for stamping out hollow plastic parts that can be up to about eleven inches square and five inches deep. (Think of the plastic masks from "V for Vendetta"...)
+
+Basically, to use this system you:
+
+1) Create a full-sized sculpture of the thing you want to mass-produce (for example, that mask). That is the "positive pattern". It has to have one flat side that it rests upon.
+
+2) You put that pattern into a sturdy wooden form and fill the form with a thick liquid that is based on Plaster of Paris.
+
+3) When that plaster hardens, you pry out your pattern. That leaves a hole in the hardened plaster; the hole exactly matches your pattern, but it is a negative (because it's a hole!).
+
+4) You take the hardened plaster block out of the form. The plaster block is your "negative mold".
+
+5) You drill some holes through the negative mold, in certain places, and connect the holes to a vacuum pump (which is, in our case, simply a shop vacuum).
+
+6) You clamp a thin sheet of suitable rigid plastic (typically, 1/16" styrene") to the top of the negative mold such that the plastic covers the negative opening in the mold.
+
+7) You position a special heater (it's basically a super-toaster!) over the plastic sheet and carefully soften the plastic sheet with lots of uniform heat.
+
+8) At the proper instant you turn on the vacuum system; the air gets sucked out of the negative mold through those special holes; the hot plastic sheet gets sucked down into the negative mold; you turn off the heater; and finally, you turn off the vacuum.
+
+9) You pry the quickly-cooled and once-again-rigid plastic sheet out of the negative mold and... VOILA! You have a formed plastic shell that matches the shape of your original pattern.
+
+10) You trim off the excess plastic, paint or decorate the piece, and repeat it all until you have enough replicas!
+
+Of course, it does require some experimentation and experience, but trying, learning, and doing are why we are makers!
+
+Right now, the vacuum thermoforming system is ready to use for other projects. It lives in Tim's garage until we get a good place to safely store it (it's bulky and slightly dangerous) in our space. If you want to learn to use it for Davis Makerspace projects, shout out!
 
