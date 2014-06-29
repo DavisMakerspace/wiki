@@ -18,7 +18,7 @@ The ADM supplies two opto-isolated output bits that report the position of the d
 
 A door switch supplies another output bit that tells whether the door is open or closed; a low signal means the door is closed.
 
-There is an Access Control Computer ("ACC" -- a BeagleBone Black) connected to the deadbolt control and status bits and the door switch bit. It is running Arch Linux ARM and communicates with the ADM via the /sys interface to the GPIO. A simple high-level interface is provided via [sentry](https://github.com/DavisMakerspace/sentry).
+There is an Access Control Computer ("ACC" -- a BeagleBone Black) connected to the deadbolt control and status bits and the door switch bit. It is running Arch Linux ARM and communicates with the ADM via the /sys interface to the GPIO. A simple high-level interface is provided via [doord](https://github.com/DavisMakerspace/doord).
 
 ## BeagleBone Black Info
 
