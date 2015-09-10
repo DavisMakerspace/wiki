@@ -20,6 +20,9 @@ Using the printrbots can be anywhere from easy to hard, depending on the complex
     1. Slice a simple model obtained from thingiverse
     2. Load the gcode into printrun and print
 
+To run slicer, simply type `slic3r` into a command line.  
+To run pronterface (gui for printrun), run `python /usr/local/opt/printrun/pronterface.py` in a command line
+
 If you've gotten this far, you probably want to print something complicated, **that brings us to**
 
 
