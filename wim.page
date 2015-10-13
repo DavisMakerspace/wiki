@@ -10,9 +10,9 @@ The computer is a black box PC spec'd out by AdamR. It is by the cabinet rack.
 IP: 192.168.88.8
 needs SSH on. 
 
-Its login is: user1\\
-pass: the explorit wim box\\
-
+Its login is: user1\
+pass: the explorit wim box\
+\
 All the SARndbox files are in /home/user1
 sudo should get you what you need
 
