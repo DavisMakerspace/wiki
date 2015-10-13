@@ -1,4 +1,4 @@
-mThis is a page for the EXPLORIT Water Information Model (WIM) implentation of the Kreylos [SARNDBOx](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/index.html)  software
+This is a page for the EXPLORIT Water Information Model (WIM) implentation of the Kreylos [SARNDBOx](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/index.html)  software
 
 
 #SarndBox Details
@@ -6,9 +6,14 @@ mThis is a page for the EXPLORIT Water Information Model (WIM) implentation of t
 ## Virtual Sarndbox
 
 The computer is a black box PC spec'd out by AdamR. It is by the cabinet rack.
-Its login is: 
 
+IP: 192.168.88.8
+needs SSH on. 
 
+Its login is: user1
+pass: the explorit wim box
+
+All the SARndbox files are in /home/user1
 
 ## Physical Sarndbox
 
