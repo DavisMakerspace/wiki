@@ -15,10 +15,12 @@ pass: the explorit wim box\
 All the SARndbox files are in /home/user1/src
 sudo should get you what you need.
 
-TightVNC is on, but its pretty secure.\
- You need to SSH to the box and tunnel port 5901.\ 
-Tight VNC only listens on 127.0.0.1:5901 for VNC requests.\ 
-Password is explorit\
+VNC is needed to drive the box 
+
+- TightVNC is on, but its pretty secure.
+- You need to SSH to the box and tunnel port 5901.
+- Tight VNC only listens on 127.0.0.1:5901 for VNC requests. 
+- Password is explorit
 
 ## Physical Sarndbox
 
