@@ -14,3 +14,38 @@ HP error codes for this model can be found [here](http://h20564.www2.hp.com/hpsc
 It is a finnicky little bugger, if it errors out on you things usually just need to be re-seated. 
 
 We do have a torx screwdriver that fits the screws on the back panel. As of Oct 2016 it's rubber banded to the plotter's user manual, but it may float around.
+
+Here are some errors that RS solved after it had been sitting idle for a while 
+
+n case anybody else gets similar issues I've outlined my steps for error codes I encountered below:
+
+1. LCD "ERROR 1f50007 Hard Disk Failure"
+
+    Reading up online said this may be a power supply problem so it may come back
+    Gone after a reboot (power switch at back of printer), never showed up again
+
+2. LCD: "Boot FAILED Contact HP representative"
+
+    Gone after another reboot (power switch at the back of the printer)
+
+3. LCD stuck at "Spinning up disk..Ok" after repeated reboots
+
+    Found HP docs here, but went through every step with no luck
+
+    Turned off and unplugged printer, opened hard drive enclosure, took foam holder off hard drive, plugged printer in, turned on printer, and it worked. No idea why.
+
+3. LCD: "System error ffffffff 01dc0077 switch off/on if problem persists contact HP support"
+
+    Rebooted with no luck
+    Used HP error code guide, led me here
+
+    Fixed by rebooting with network cable unplugged
+
+4. LCD: "Printheads REPLACE"
+
+    Entered printhead menu to find culprit printhead
+
+    Re-seated offending printhead
+
+
+After all this was done I was able to follow the media loading guide in the User Manual to load the paper, and the plotter was ready to print! It's in Sleep mode right now, so to turn it on just press the power button on the front.
