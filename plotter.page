@@ -4,8 +4,7 @@ This is now on the network of the SPACE at
 
 IP Address: 192.168.88.7 
 
-So Fire away. This sucker has like a 160 GB disk, and 256 MB RAM so it can spool hella jobs. IT has a jet direct card so you can just point to it, pretty simple. 
-Take about 5 minutes to boot, and it does take some minutes to spool up the print job and get things ready, so be patient with it.  
+So Fire away. This sucker has like a 160 GB disk, and 256 MB RAM so it can spool hella jobs. IT has a jet direct card so you can just point to it, pretty simple. Take about 5 minutes to boot, and it does take some minutes to spool up the print job and get things ready, so be patient with it.  
 
 If its wanted we could put a VPN server on the router, and you could VPN in and print to  the plotter from the 'tubes
 
@@ -49,3 +48,5 @@ n case anybody else gets similar issues I've outlined my steps for error codes I
 
 
 After all this was done I was able to follow the media loading guide in the User Manual to load the paper, and the plotter was ready to print! It's in Sleep mode right now, so to turn it on just press the power button on the front.
+
+2/27/17 Anyone looking to print from a newish windows (7-10), here is the universal designjet PS ["driver"](/win-x64-ps-drv.exe)...Here is the HP [page](http://h20564.www2.hp.com/hpsc/swd/public/readIndex?sp4ts.oid=7399939&swLangOid=8&swEnvOid=4192)
