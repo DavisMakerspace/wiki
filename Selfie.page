@@ -1,6 +1,7 @@
+Printrbot has discontinued the 3D Selfie scanner and no longer manufactures it. It was released in 2014 but seems to have never had a widespread launch, which makes it more fun. In order to get our 3D Selfie scanner in working condition, it needs an Xbox Kinect or potentially any other scanning camera, 3D scanning software such as Skanect, Brekel or Autodesk Remake (now Recap?), and a computer setup with a good graphics card. 
 
+In the U.K. at BuildBrighton, Poppy Mosbacher built a full-body 3D scanner that used a computer system compiled of 27 Raspberry Pi Zeros and 27 Raspberry Pi Camera Modules. Her main goal was to create a 3D scanner that was affordable and thus more accessible to small community makerspaces, just like ours here in Davis. The 27 Raspberry's correspond to a given point upon a 3D object and are all connected via a main server running a node application. The structure that holds each Raspberry in place creates a geodesic dome-like structure, which would be sure to have people stopping to take a second look. Check out the links below to learn more! 
 
-This product is totally gone from printrbot and I think it never really had a widespread launch, which makes it more fun. It  needs a Kinect
 
 #Last Update
 2018-04-09
@@ -13,6 +14,12 @@ This product is totally gone from printrbot and I think it never really had a wi
 [Found some free software, brekel](http://brekel.com/kinect-3d-scanner/download/)
 
 [Installation Instructions for brekel](http://brekel.com/kinect-3d-scanner/installation-instructions/)
+
+[Skanect software](http://skanect.occipital.com/download/)
+
+[How to build 3D body scanner with Rasperry Pi Cameras](http://www.instructables.com/id/3D-Body-Scanner-Using-Raspberry-Pi-Cameras/)
+
+[Background info about Raspberry Pi for 3D scanner](https://www.raspberrypi.org/blog/affordable-raspberry-pi-3d-body-scanner/)
 
 #Documentation 
 
